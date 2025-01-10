@@ -1,3 +1,8 @@
+pip>=24.3.1
+setuptools>=68.0.0
+wheel>=0.41.0
+streamlit==1.25.0
+pillow==9.5.0 --only-binary=:all:
 beautifulsoup4==4.12.2             
 pandas==1.5.3           
 requests==2.31.0        
